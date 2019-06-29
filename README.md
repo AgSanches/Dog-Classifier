@@ -10,3 +10,4 @@ This is a project for "Fundamentos de los Sistemas Inteligentes" which consist i
 * Staffordshire Bullterrier
 * French Bulldog
 
+I have used [Stanford Dogs Datset](https://www.kaggle.com/jessicali9530/stanford-dogs-dataset), where I get 1532 images of the different breeds, I choose the VGG16 model where I changed the input shape and remove the fully connected layer and I add a different one with a couple dense layers along with some Dropout layers.
